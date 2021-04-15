@@ -35,7 +35,7 @@ import java.util.List;
  * @Author TechAle on 12/16/20
  * Ported and modified from Surround.java
  */
-
+//EDIT
 @Module.Declaration(name = "AutoAnvil", category = Category.Combat)
 public class AutoAnvil extends Module {
 
